@@ -1,14 +1,11 @@
 # Django-Todolist
 
-[![License][license-image]][license-url] [![Build Status][travis-image]][travis-url]
 
 Django-Todolist is a todolist web application with the most basic features of most web apps, i.e. accounts/login, API and (somewhat) interactive UI.
 
 ---
 CSS | [Skeleton](http://getskeleton.com/)
 JS  | [jQuery](https://jquery.com/)
-
-I've also build a quite similar app in Flask: https://github.com/rtzll/flask-todolist
 
 
 ## Explore
